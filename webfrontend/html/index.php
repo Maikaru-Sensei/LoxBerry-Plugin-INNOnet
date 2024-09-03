@@ -3,6 +3,6 @@
   <title>PHP-Test</title>
  </head>
  <body>
- <?php echo '<p>Hallo Welt</p>'; ?>
+ <?php echo '<p>Hallo vom INNOnet Plugin</p>'; ?>
  </body>
 </html>
